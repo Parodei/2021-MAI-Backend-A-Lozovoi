@@ -2,5 +2,3 @@ venv/
 *.pyc
 *.swo
 *.swp
-.idea/
-.pytest_cache
